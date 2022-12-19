@@ -20,7 +20,9 @@ Skills:  REACT / REDUX /NODE / SQL / SEQUELIZE / JS / HTML / CSS/
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bukaro8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-ramirez-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-eight-sandy-56.vercel.app/)  
 #### PORTFOLIO
 ==============================
-https://portfolio-eight-sandy-56.vercel.app/
+<a href='https://portfolio-eight-sandy-56.vercel.app/'>
+<img src='https://github.com/bukaro8/bukaro8/blob/main/Screenshot%202022-12-19%20192804.jpg' />
+</a>
 
 EXAMPLES OF WORK
 ==============================
