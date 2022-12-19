@@ -26,4 +26,4 @@ Skills:  REACT / REDUX /NODE / SQL / SEQUELIZE / JS / HTML / CSS/
 ![GitHub metrics](https://metrics.lecoq.io/bukaro8)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bukaro8)  
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bukaro8)](https://github.com/bukaro8/github-readme-activity-graph)
