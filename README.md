@@ -22,7 +22,7 @@ EXAMPLES OF WORK
 <img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='512'/>
 
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='512'/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukaro8)](https://github.com/bukaro8/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bukaro8&show_icons=true)  
 
