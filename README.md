@@ -27,7 +27,11 @@ EXAMPLES OF WORK
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
 </span>
 </p>
+
+
+<p align=center>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bukaro8&show_icons=true)  
+</p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bukaro8)  
 
