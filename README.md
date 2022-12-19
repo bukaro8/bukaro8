@@ -20,10 +20,10 @@ Skills:  REACT / REDUX /NODE / SQL / SEQUELIZE / JS / HTML / CSS/
 EXAMPLES OF WORK
 ==============================
 <p align=left>
-<img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='512'/>
+<img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='384'/>
 </p>
 <p align=right>
-<img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='512'/>
+<img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bukaro8&show_icons=true)  
