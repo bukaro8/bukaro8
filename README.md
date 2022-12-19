@@ -31,7 +31,7 @@ EXAMPLES OF WORK
 
 [<p align=center> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bukaro8&show_icons=true)</p>]
 
-[<p align=center>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bukaro8)</p>]
+[<p align=center> ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bukaro8)</p>]
 
 [<p align=center>![GitHub metrics](https://metrics.lecoq.io/bukaro8)</p>]
 
