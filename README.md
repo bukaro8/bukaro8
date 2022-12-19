@@ -1,6 +1,6 @@
 
 ### Hi there 👋, Victor Ramirez
-<p align=center>
+
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://media.licdn.com/dms/image/C5616AQHkJICN_Fy4RA/profile-displaybackgroundimage-shrink_350_1400/0/1609756950664?e=1677110400&v=beta&t=eKlbSAdgzR4XCeGa-v4_k1lmm9xE4JtXPgreFJPWCNs)
 
@@ -19,9 +19,9 @@ Skills:  REACT / REDUX /NODE / SQL / SEQUELIZE / JS / HTML / CSS/
 
 EXAMPLES OF WORK
 ==============================
-
+<p align=center>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='512'/>
-
+</p>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='512'/>
 
 
