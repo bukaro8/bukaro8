@@ -30,7 +30,9 @@ EXAMPLES OF WORK
 
 
 <p align=center>
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bukaro8&show_icons=true)  
+  
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bukaro8)  
