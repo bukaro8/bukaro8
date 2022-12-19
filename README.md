@@ -1,6 +1,6 @@
 
 ### Hi there 👋, Victor Ramirez
-
+<p align=center>
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://media.licdn.com/dms/image/C5616AQHkJICN_Fy4RA/profile-displaybackgroundimage-shrink_350_1400/0/1609756950664?e=1677110400&v=beta&t=eKlbSAdgzR4XCeGa-v4_k1lmm9xE4JtXPgreFJPWCNs)
 
@@ -19,6 +19,7 @@ Skills:  REACT / REDUX /NODE / SQL / SEQUELIZE / JS / HTML / CSS/
 
 EXAMPLES OF WORK
 ==============================
+
 <img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='512'/>
 
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='512'/>
@@ -32,3 +33,4 @@ EXAMPLES OF WORK
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bukaro8)  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bukaro8&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  </p>
