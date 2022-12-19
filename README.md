@@ -31,10 +31,11 @@ EXAMPLES OF WORK
 
 [<p align=center> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bukaro8&show_icons=true)</p>]
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bukaro8)  
+[<p align=center>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bukaro8)</p>]
 
-![GitHub metrics](https://metrics.lecoq.io/bukaro8)  
+[<p align=center>![GitHub metrics](https://metrics.lecoq.io/bukaro8)</p>]
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=bukaro8)  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bukaro8&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  </p>
+[<p align=center>![GitHub streak stats](https://streak-stats.demolab.com/?user=bukaro8) </p>]
+
+[<p align=center>[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bukaro8&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>]
+
