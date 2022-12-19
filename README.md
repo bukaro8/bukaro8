@@ -1,5 +1,6 @@
 
 ### Hi there 👋, Victor Ramirez
+
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://media.licdn.com/dms/image/C5616AQHkJICN_Fy4RA/profile-displaybackgroundimage-shrink_350_1400/0/1609756950664?e=1677110400&v=beta&t=eKlbSAdgzR4XCeGa-v4_k1lmm9xE4JtXPgreFJPWCNs)
 
@@ -14,7 +15,11 @@ Skills:  REACT / REDUX /NODE / SQL / SEQUELIZE / JS / HTML / CSS/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bukaro8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-ramirez-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-eight-sandy-56.vercel.app/)  
-<img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif-5-4722c09595.gif' width='256'/>
+
+
+EXAMPLES OF WORK
+==============================
+<img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif-5-4722c09595.gif' width='512'/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukaro8)](https://github.com/bukaro8/github-readme-stats)
