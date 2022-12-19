@@ -21,8 +21,9 @@ Skills:  REACT / REDUX /NODE / SQL / SEQUELIZE / JS / HTML / CSS/
 #### PORTFOLIO
 ==============================
 <a href='https://portfolio-eight-sandy-56.vercel.app/'>
-
-<img align=center src='https://github.com/bukaro8/bukaro8/blob/main/Screenshot%202022-12-19%20192804.jpg'  width=512/>
+<p align=center>
+<img  src='https://github.com/bukaro8/bukaro8/blob/main/Screenshot%202022-12-19%20192804.jpg'  width=512/>
+ </p>
 </a>
 
 EXAMPLES OF WORK
