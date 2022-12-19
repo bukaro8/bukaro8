@@ -15,7 +15,7 @@ Skills:  REACT / REDUX /NODE / SQL / SEQUELIZE / JS / HTML / CSS/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bukaro8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-ramirez-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-eight-sandy-56.vercel.app/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bukaro8)](https://github.com/bukaro8/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukaro8)](https://github.com/bukaro8/github-readme-stats)
 
@@ -26,4 +26,4 @@ Skills:  REACT / REDUX /NODE / SQL / SEQUELIZE / JS / HTML / CSS/
 ![GitHub metrics](https://metrics.lecoq.io/bukaro8)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bukaro8)  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bukaro8&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bukaro8&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
