@@ -39,6 +39,9 @@ EXAMPLES OF WORK
 <span align=right>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
 </span>
+ <span align=right>
+<img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
+</span>
 </p>
 
 
