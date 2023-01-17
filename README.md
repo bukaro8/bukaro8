@@ -10,10 +10,10 @@
 I'm Victor. I'm a full-stack web developer, self-motivated, organized and committed individual with the ability to work well independently or as part of a professional development team.
 I got experience working with NodeJS, React, Redux, SQL, Sequelize, Posgresql and some others. 
 
-Skills:  REACT / REDUX /NODE / SQL / SEQUELIZE / JS / HTML / CSS/
+Skills:  REACT / REDUX / NODE / EXPRESS / SQL / SEQUELIZE / POSTGRESQL / MONGODB / JS / HTML / CSS/ TAILWILD / BOOTSTRAP 
 
-- 🔭 I’m currently working on this page. 
-- 💬 Ask me about REACT / NODE 
+
+
 - 📫 How to reach me: vicdeveloper83@gmail.com 
 
 
