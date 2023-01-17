@@ -75,8 +75,9 @@ Skills: Redux Thunk · GitHub · Redux.js · SQL · PostgreSQL · HTML · Node.j
  DOG'S Library
  </a>
   <br>
+  <p align=center>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
-
+</p>
  <br>
 
 </p>
