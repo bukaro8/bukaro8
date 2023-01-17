@@ -40,13 +40,16 @@ WORK EXAMPLES
  <br>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='384'/>
 </span>
-<span align=right>
+ <br>
+<span align=center>
  <span align=center>
  <a href='dogs-deploy-two.vercel.app'>
  DOG'S Library
  </a>
+  <br>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
 </span>
+ <br>
  <span align=center>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='384'/>
 </span>
