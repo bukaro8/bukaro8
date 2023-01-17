@@ -30,17 +30,20 @@ Skills:  REACT / REDUX / NODE / EXPRESS / SQL / SEQUELIZE / POSTGRESQL / MONGODB
  </p>
 </a>
 
-EXAMPLES OF WORK
+WORK EXAMPLES
 ==============================
 <p align=center>
 <span align=left>
  <a href='front-videogamest.vercel.app'>
  Videogames Library
  </a>
- <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='384'/>
 </span>
 <span align=right>
+ <span align=left>
+ <a href='dogs-deploy-two.vercel.app'>
+ DOG'S Library
+ </a>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
 </span>
  <span align=right>
