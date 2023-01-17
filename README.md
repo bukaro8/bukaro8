@@ -33,15 +33,16 @@ Skills:  REACT / REDUX / NODE / EXPRESS / SQL / SEQUELIZE / POSTGRESQL / MONGODB
 WORK EXAMPLES
 ==============================
 <p align=center>
-
+<p align=center>
   <a href='https://www.techwolrd.store/'> TechWorld E-commerce
  </a>
  <br>
-</p>
+
 
 
  <span>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='384'/>
+  </p>
  </span>
  <br>
    <p> Implemented RESTful API server using Node.js with Express.js for a Tech E‐Commerce
