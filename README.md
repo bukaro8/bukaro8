@@ -33,7 +33,7 @@ Skills:  REACT / REDUX / NODE / EXPRESS / SQL / SEQUELIZE / POSTGRESQL / MONGODB
 WORK EXAMPLES
 ==============================
 <p align=center>
-  <span align=center>
+
   <a href='https://www.techwolrd.store/'>
  TechWorld E-commerce
  </a>
@@ -47,9 +47,9 @@ created.
 • Deployed the E‐commerce using railway for the Back‐end and Vercel for the Front‐end
 • Keep updated the GitHub repository using gitImplemented RESTful API server using Node.js with Express.js for a Tech E‐Commerce • Created a Database using MongoDB and Mongoose as ODM • Designed the graphic interface using React and CSS modules and tailwind CSS for styling and semantic HTML5. • Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was created. • Deployed the E‐commerce using railway for the Back‐end and Vercel for the Front‐end • Keep updated the GitHub repository using git
     Skills: E-Commerce · Node.js · Express.js · React.js · MongoDB </p>
-</span>
+
  <br>
-<span align=left>
+
  <a href='front-videogamest.vercel.app'>
  Videogames Library
  </a>
@@ -61,16 +61,16 @@ created.
 • Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was
 created.Implemented RESTful API server for Video games Library application • Created a Database using PostgreSQL and sequelize as ORM • Keep a clean organised semantic HTML according to moderns rules of web developing • Designed the graphic interface using React and CSS Modules and Bootstrap for styling(project requirement) • Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was created.
 Skills: Redux Thunk · GitHub · Redux.js · SQL · PostgreSQL · HTML · Node.js · Express.js · React.js · Cascading Style Sheets (CSS) </p>
-</span>
+
  <br>
-<span align=center>
- <span align=center>
+
+
  <a href='dogs-deploy-two.vercel.app'>
  DOG'S Library
  </a>
   <br>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
-</span>
+
  <br>
 
 </p>
