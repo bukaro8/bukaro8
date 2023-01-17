@@ -39,6 +39,14 @@ WORK EXAMPLES
  </a>
  <br>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='384'/>
+   <p>Implemented RESTful API server using Node.js with Express.js for a Tech E‐Commerce
+• Created a Database using MongoDB and Mongoose as ODM
+• Designed the graphic interface using React and CSS modules and tailwind CSS for styling and semantic HTML5.
+• Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was
+created.
+• Deployed the E‐commerce using railway for the Back‐end and Vercel for the Front‐end
+• Keep updated the GitHub repository using gitImplemented RESTful API server using Node.js with Express.js for a Tech E‐Commerce • Created a Database using MongoDB and Mongoose as ODM • Designed the graphic interface using React and CSS modules and tailwind CSS for styling and semantic HTML5. • Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was created. • Deployed the E‐commerce using railway for the Back‐end and Vercel for the Front‐end • Keep updated the GitHub repository using git
+    Skills: E-Commerce · Node.js · Express.js · React.js · MongoDB </p>
 </span>
  <br>
 <span align=left>
