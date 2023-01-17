@@ -35,8 +35,9 @@ EXAMPLES OF WORK
 <p align=center>
 <span align=left>
  <a href='front-videogamest.vercel.app'>
- <h2>Videogames Library</h2>
+ Videogames Library
  </a>
+ <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='384'/>
 </span>
 <span align=right>
