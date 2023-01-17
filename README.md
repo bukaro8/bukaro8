@@ -35,10 +35,13 @@ WORK EXAMPLES
 <p align=center>
 
   <a href='https://www.techwolrd.store/'>
-   repo:https://github.com/bukaro8/TechWorld
+   
  TechWorld E-commerce
  </a>
  <br>
+ <p align=center>
+ repo:https://github.com/bukaro8/TechWorld
+ </p>
  <span>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='384'/>
  </span>
