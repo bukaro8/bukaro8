@@ -70,7 +70,9 @@ created.
 • Designed the graphic interface using React and CSS Modules and Bootstrap for styling(project requirement)
 • Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was
 created.Implemented RESTful API server for Video games Library application • Created a Database using PostgreSQL and sequelize as ORM • Keep a clean organised semantic HTML according to moderns rules of web developing • Designed the graphic interface using React and CSS Modules and Bootstrap for styling(project requirement) • Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was created.
-Skills: Redux Thunk · GitHub · Redux.js · SQL · PostgreSQL · HTML · Node.js · Express.js · React.js · Cascading Style Sheets (CSS) </p>
+Skills: Redux Thunk · GitHub · Redux.js · SQL · PostgreSQL · HTML · Node.js · Express.js · React.js · Cascading Style Sheets (CSS) <br>
+repo:https://github.com/bukaro8/videogames
+</p>
 </p>
  <br>
 
