@@ -58,7 +58,7 @@ created.
  Videogames Library
  </a>
  <br>
- <span>
+ <span align=center>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='384'/>
  </span>
  <p>• Created a Database using PostgreSQL and sequelize as ORM
