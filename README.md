@@ -37,6 +37,7 @@ WORK EXAMPLES
  <a href='front-videogamest.vercel.app'>
  Videogames Library
  </a>
+ <br>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='384'/>
 </span>
 <span align=right>
