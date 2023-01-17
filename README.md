@@ -70,10 +70,11 @@ Skills: Redux Thunk · GitHub · Redux.js · SQL · PostgreSQL · HTML · Node.j
 </p>
  <br>
 
-
+<p align=center>
  <a href='dogs-deploy-two.vercel.app'>
  DOG'S Library
  </a>
+ </p>
   <br>
   <p align=center>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
