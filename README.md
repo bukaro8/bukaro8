@@ -38,8 +38,9 @@ WORK EXAMPLES
  TechWorld E-commerce
  </a>
  <br>
-<img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='512'/>
+<img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='384'/>
 </span>
+ <br>
 <span align=left>
  <a href='front-videogamest.vercel.app'>
  Videogames Library
