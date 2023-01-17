@@ -33,6 +33,13 @@ Skills:  REACT / REDUX / NODE / EXPRESS / SQL / SEQUELIZE / POSTGRESQL / MONGODB
 WORK EXAMPLES
 ==============================
 <p align=center>
+  <span align=center>
+  <a href='https://www.techwolrd.store/'>
+ TechWorld E-commerce
+ </a>
+ <br>
+<img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='512'/>
+</span>
 <span align=left>
  <a href='front-videogamest.vercel.app'>
  Videogames Library
@@ -50,9 +57,7 @@ WORK EXAMPLES
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
 </span>
  <br>
- <span align=center>
-<img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='384'/>
-</span>
+
 </p>
 
 
