@@ -39,6 +39,7 @@ WORK EXAMPLES
  </a>
  <br>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='384'/>
+ <br>
    <p>Implemented RESTful API server using Node.js with Express.js for a Tech E‐Commerce
 • Created a Database using MongoDB and Mongoose as ODM
 • Designed the graphic interface using React and CSS modules and tailwind CSS for styling and semantic HTML5.
