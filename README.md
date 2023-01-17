@@ -40,7 +40,7 @@ EXAMPLES OF WORK
 <img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
 </span>
  <span align=right>
-<img src='https://github.com/bukaro8/bukaro8/blob/main/Screen%20Recording%202023-01-17%20at%2020.45.20.mov' width='384'/>
+<img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='384'/>
 </span>
 </p>
 
