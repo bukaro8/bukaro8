@@ -58,7 +58,9 @@ created.
  Videogames Library
  </a>
  <br>
+ <span>
 <img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='384'/>
+ </span>
  <p>• Created a Database using PostgreSQL and sequelize as ORM
 • Keep a clean organised semantic HTML according to moderns rules of web developing
 • Designed the graphic interface using React and CSS Modules and Bootstrap for styling(project requirement)
