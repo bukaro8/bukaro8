@@ -1,102 +1,88 @@
 
-### Victor Ramirez
-#### Full Stack Web Developer
 
-### Hi there 👋, 
+<!-- Banner Image -->
+<img src="https://github.com/bukaro8/bukaro8/blob/main/laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg" alt="Banner Image" style="width: 100%; display: block; margin-bottom: 20px;">
 
+<!-- Name Section -->
+<h1 align="center">Victor Ramirez</h1>
 
+<!-- Subheading Section -->
+<h3 align="center">Web Developer | Full Stack Enthusiast | Lifelong Learner</h3>
 
-
-I'm Victor. I'm a full-stack web developer, self-motivated, organized and committed individual with the ability to work well independently or as part of a professional development team.
-I got experience working with NodeJS, React, Redux, SQL, Sequelize, Posgresql and some others. 
-
-Skills:  REACT / REDUX / NODE / EXPRESS / SQL / SEQUELIZE / POSTGRESQL / MONGODB / JS / HTML / CSS/ TAILWILD / BOOTSTRAP 
-
-
-
-- 📫 How to reach me: vicdeveloper83@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bukaro8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-ramirez-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-eight-sandy-56.vercel.app/)  
-<p align=center>
- PORTFOLIO
-</p>
-<p align=center>
-==============================
- </p>
-<a href='https://portfolio-eight-sandy-56.vercel.app/'>
-<p align=center>
-<img  src='https://github.com/bukaro8/bukaro8/blob/main/Screenshot%202022-12-19%20192804.jpg'  width=512/>
- </p>
-</a>
-
-WORK EXAMPLES
-==============================
-<p align=center>
-<p align=center>
-  <a href='https://www.techwolrd.store/'> TechWorld E-commerce
- </a>
- <br>
-
-
-
- <span>
-<img src='https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif' width='384'/>
-  </p>
- </span>
- <br>
-   <p> Implemented RESTful API server using Node.js with Express.js for a Tech E‐Commerce
-• Created a Database using MongoDB and Mongoose as ODM
-• Designed the graphic interface using React and CSS modules and tailwind CSS for styling and semantic HTML5.
-• Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was
-created.
-• Deployed the E‐commerce using railway for the Back‐end and Vercel for the Front‐end
-• Keep updated the GitHub repository using gitImplemented RESTful API server using Node.js with Express.js for a Tech E‐Commerce • Created a Database using MongoDB and Mongoose as ODM • Designed the graphic interface using React and CSS modules and tailwind CSS for styling and semantic HTML5. • Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was created. • Deployed the E‐commerce using railway for the Back‐end and Vercel for the Front‐end • Keep updated the GitHub repository using git
-    Skills: E-Commerce · Node.js · Express.js · React.js · MongoDB <br>
-     repo:https://github.com/bukaro8/TechWorld
+<!-- Icon Links -->
+<p align="center">
+  <a href="https://github.com/bukaro8">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="margin-right: 15px;">
+  </a>
+  <a href="https://www.linkedin.com/in/victor-ramirez-developer/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="margin-right: 15px;">
+  </a>
+  <a href="https://portfolio-eight-sandy-56.vercel.app/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="40">
+  </a>
 </p>
 
- <br>
-<p align=center>
- <a href='front-videogamest.vercel.app'>
- Videogames Library
- </a>
- <br>
- <span align=center>
-<img src='https://github.com/bukaro8/bukaro8/blob/main/videogm.gif' width='384'/>
- </span>
- <p>• Created a Database using PostgreSQL and sequelize as ORM
-• Keep a clean organised semantic HTML according to moderns rules of web developing
-• Designed the graphic interface using React and CSS Modules and Bootstrap for styling(project requirement)
-• Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was
-created.Implemented RESTful API server for Video games Library application • Created a Database using PostgreSQL and sequelize as ORM • Keep a clean organised semantic HTML according to moderns rules of web developing • Designed the graphic interface using React and CSS Modules and Bootstrap for styling(project requirement) • Used Redux and React‐Redux to control actions such as filters, sorting, paging and sending information to the back end when a new register was created.
-Skills: Redux Thunk · GitHub · Redux.js · SQL · PostgreSQL · HTML · Node.js · Express.js · React.js · Cascading Style Sheets (CSS) <br>
-repo:https://github.com/bukaro8/videogames
-</p>
-</p>
- <br>
+<!-- About Section -->
+## About Me
+Hello! I'm Victor Ramirez, a passionate web developer with expertise in full-stack development. I enjoy building dynamic and user-friendly applications that solve real-world problems. I'm constantly learning and exploring new technologies to enhance my skills.
 
-<p align=center>
- <a href='dogs-deploy-two.vercel.app'>
- DOG'S Library
- </a>
- </p>
-  <br>
-  <p align=center>
-<img src='https://github.com/bukaro8/bukaro8/blob/main/pero.gif' width='384'/>
-</p>
- <br>
+---
 
+<!-- Portfolio Section -->
+## Portfolio
+<p align="center">
+  <a href="https://portfolio-eight-sandy-56.vercel.app/">
+    <img src="https://github.com/bukaro8/bukaro8/blob/main/Screenshot%202022-12-19%20192804.jpg" alt="Portfolio Screenshot" width="512">
+  </a>
 </p>
 
+---
 
-[<p align=center> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bukaro8&show_icons=true)</p>]
+<!-- Work Examples Section -->
+## Work Examples
 
+### [TechWorld E-commerce](https://www.techwolrd.store/)
+<p align="center">
+  <img src="https://github.com/bukaro8/bukaro8/blob/main/ezgif.com-gif-maker.gif" alt="TechWorld E-commerce" width="384">
+</p>
+- **Backend:** Node.js, Express.js, MongoDB (Mongoose)
+- **Frontend:** React, CSS Modules, Tailwind CSS
+- **Features:** RESTful API, filters, sorting, pagination, Redux for state management
+- **Deployment:** Backend on Railway, Frontend on Vercel
+- **Repository:** [GitHub Repo](https://github.com/bukaro8/TechWorld)
 
+---
 
-[<p align=center>![GitHub metrics](https://metrics.lecoq.io/bukaro8)</p>]
+### [Videogames Library](https://front-videogamest.vercel.app)
+<p align="center">
+  <img src="https://github.com/bukaro8/bukaro8/blob/main/videogm.gif" alt="Videogames Library" width="384">
+</p>
+- **Backend:** Node.js, Express.js, PostgreSQL (Sequelize ORM)
+- **Frontend:** React, CSS Modules, Bootstrap
+- **Features:** RESTful API, Redux for filters, sorting, and pagination
+- **Repository:** [GitHub Repo](https://github.com/bukaro8/videogames)
 
-[<p align=center>![GitHub streak stats](https://streak-stats.demolab.com/?user=bukaro8) </p>]
+---
 
-[<p align=center>[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bukaro8&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>]
+### [Dog's Library](https://dogs-deploy-two.vercel.app/)
+<p align="center">
+  <img src="https://github.com/bukaro8/bukaro8/blob/main/pero.gif" alt="Dog's Library" width="384">
+</p>
+
+---
+
+<!-- GitHub Statistics Section -->
+## GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bukaro8&show_icons=true&theme=dark" alt="GitHub Stats">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=bukaro8&theme=dark" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bukaro8&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukaro8&layout=compact&theme=dark" alt="Top Languages">
+</p>
 
