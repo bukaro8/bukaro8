@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://media.licdn.com/dms/image/C5616AQHkJICN_Fy4RA/profile-displaybackgroundimage-shrink_350_1400/0/1609756950664?e=1677110400&v=beta&t=eKlbSAdgzR4XCeGa-v4_k1lmm9xE4JtXPgreFJPWCNs)
+
 ### Victor Ramirez
 #### Full Stack Web Developer
 
