@@ -78,6 +78,7 @@ Hello! I'm Victor Ramirez, a passionate web developer with expertise in full-sta
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=bukaro8&show_icons=true&theme=dark" alt="GitHub Stats">
   <!-- GitHub Streak -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=bukaro8)](https://git.io/streak-stats)
   <img src="https://streak-stats.demolab.com/?user=bukaro8&theme=dark" alt="GitHub Streak">
 </p>
 
